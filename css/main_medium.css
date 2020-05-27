@@ -1,0 +1,138 @@
+header.section .inner{
+    max-width:100%;
+    height:auto;
+    padding: 0 20px;
+  }
+
+  header.section .header__left,
+  header.section .header__right{
+    float:none;
+  }
+
+  header.section .toggle{
+    display: none;
+  }
+
+  header.section .toggle.on{
+    display: block;
+  }
+
+  header .header__left{
+    display:block;
+  }
+  header .main--menu{
+    display:block;
+  }
+
+  header .main--menu li{
+    padding:10px 0;
+    margin-right: 0;
+    border-top: 1px solid #e5e5e5;
+
+  }
+
+  header .header__right{
+    display:block;
+    padding:10px 0 20px;
+  }
+
+  header .header__right .btn-group{
+    display:block;
+  }
+
+  header .header__right .btn{
+    justify-content: center;
+  }
+
+  header .header__right .sign-in{
+    margin-right:0;
+    margin-bottom: 12px;
+  }
+
+  #search-form{
+    margin-top:12px;
+    margin-right:0;
+  }
+
+  #search{
+    width:100%;
+    height:42px;
+    text-align: center;
+  
+  }
+
+  header .header__right .sub--menu{
+    margin-top:12px;
+    margin-right: 0;
+    justify-content: center;
+  }
+
+  header .homeicon{
+    padding:12px 0;
+  }
+
+  #toggle_btn{
+   display:block;
+  }
+
+  /* VISUAL */
+
+  .section__visual .inner{
+    display:block;
+    max-width:none;
+    padding: 80px 20px;
+    
+  }
+
+  .section__visual .summary{
+    text-align: center;
+    margin-right: 0;
+    margin-bottom:50px;
+  }
+
+  .section__visual .form-area{
+    width:auto;
+    max-width:500px;
+    margin:0 auto;
+  }
+
+  #sign-form {
+    width: auto;
+  }
+
+  .section__visual{
+    background-image: url("../img/bg-small.jpg");
+  }
+
+  .section__feature .tiles li{
+    width:50%;
+    padding:;
+  }
+
+  .section__where-is .inner{
+    max-width: none;
+    padding: 80px 20px 0 20px;
+  }
+
+  #maps{
+    padding-top:80px;
+  }
+
+  .section__pricing .inner{
+    max-width:none;
+    padding:80px 20px;
+  }
+
+  .section__footer .float--right,
+  .section__footer .float--left{
+    float:none;
+    justify-content: center;
+  }
+
+
+
+  .section__footer .foot__icon{
+    display:none;
+
+  }
+  

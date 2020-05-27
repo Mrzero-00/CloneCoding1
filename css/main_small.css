@@ -1,0 +1,14 @@
+.section__pricing .card{
+    display:block;
+}
+
+.section_pricing .cell{
+    font-size: 20px;
+}
+
+.section__feature .tiles li{
+    width:100%;
+    border-bottom:1px solid #e5e5e5;
+    border-right: none;
+
+}
